@@ -65,4 +65,6 @@ Below is a review of balanced accuracy, the precision, and recall scores of all 
 
 # Summary
 
-All of the resampling models (Oversampling, )
+All of the resampling models (Oversampling, Undersampling, Combo) all have fairly low accuracy and recall scores. The Ensemble learning models performed the most successfully with the highest balanced accuracy score. 
+
+I would recommend the Easy Ensemble AdaBoost model because this model had both the highest accuracy and recall scores, while maintaining a high precision score as well. 
