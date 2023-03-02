@@ -2,11 +2,11 @@
 
 ## Overview of the Analysis
 
-(EXPLAIN THE PURPOSE OF THE ANALYSIS)
+This analysis utilizes six different machine learning models to predict credit risk. Each model will be have its balance accuracy, precision, and sensitivity calclulated in order to determine its successfulness. 
 
 ## Results
 
-(Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.)
+Below is a review of balanced accuracy, the precision, and recall scores of all six machine learning models used in this analysis. Screenshots of the classification reports are also attached to their respective machine learning model. 
 
 ### Oversampling: RandomOversampler
 - Balanced Accuracy Score: 0.65
@@ -15,6 +15,7 @@
 
 **Classification Report:**
 ![ROS CR](/Images/1_ROS.png)
+
 
 
 ### Oversampling: SMOTE
@@ -64,4 +65,4 @@
 
 # Summary
 
-(Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.)
+All of the resampling models (Oversampling, )
